@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pluto\\source\\repos\\project\\ConfigTool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6E4730-DBAB-4CF2-84A9-6718A247DE97}|ConfigTool\\ConfigTool.csproj|C:\\Users\\pluto\\source\\repos\\project\\ConfigTool\\configtool\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6E4730-DBAB-4CF2-84A9-6718A247DE97}|ConfigTool\\ConfigTool.csproj|solutionrelative:configtool\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6E4730-DBAB-4CF2-84A9-6718A247DE97}|ConfigTool\\ConfigTool.csproj|c:\\users\\pluto\\source\\repos\\project\\configtool\\configtool\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8A6E4730-DBAB-4CF2-84A9-6718A247DE97}|ConfigTool\\ConfigTool.csproj|solutionrelative:configtool\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6E4730-DBAB-4CF2-84A9-6718A247DE97}|ConfigTool\\ConfigTool.csproj|C:\\Users\\pluto\\source\\repos\\project\\ConfigTool\\configtool\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6E4730-DBAB-4CF2-84A9-6718A247DE97}|ConfigTool\\ConfigTool.csproj|solutionrelative:configtool\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6E4730-DBAB-4CF2-84A9-6718A247DE97}|ConfigTool\\ConfigTool.csproj|C:\\Users\\pluto\\source\\repos\\project\\ConfigTool\\configtool\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8A6E4730-DBAB-4CF2-84A9-6718A247DE97}|ConfigTool\\ConfigTool.csproj|solutionrelative:configtool\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6E4730-DBAB-4CF2-84A9-6718A247DE97}|ConfigTool\\ConfigTool.csproj|C:\\Users\\pluto\\source\\repos\\project\\ConfigTool\\configtool\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6E4730-DBAB-4CF2-84A9-6718A247DE97}|ConfigTool\\ConfigTool.csproj|solutionrelative:configtool\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6E4730-DBAB-4CF2-84A9-6718A247DE97}|ConfigTool\\ConfigTool.csproj|C:\\Users\\pluto\\source\\repos\\project\\ConfigTool\\configtool\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6E4730-DBAB-4CF2-84A9-6718A247DE97}|ConfigTool\\ConfigTool.csproj|solutionrelative:configtool\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6E4730-DBAB-4CF2-84A9-6718A247DE97}|ConfigTool\\ConfigTool.csproj|C:\\Users\\pluto\\source\\repos\\project\\ConfigTool\\configtool\\loghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6E4730-DBAB-4CF2-84A9-6718A247DE97}|ConfigTool\\ConfigTool.csproj|solutionrelative:configtool\\loghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6E4730-DBAB-4CF2-84A9-6718A247DE97}|ConfigTool\\ConfigTool.csproj|C:\\Users\\pluto\\source\\repos\\project\\ConfigTool\\configtool\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8A6E4730-DBAB-4CF2-84A9-6718A247DE97}|ConfigTool\\ConfigTool.csproj|solutionrelative:configtool\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\pluto\\source\\repos\\project\\ConfigTool\\ConfigTool\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ConfigTool\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\pluto\\source\\repos\\project\\ConfigTool\\ConfigTool\\MainWindow.xaml",
+              "RelativeToolTip": "ConfigTool\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-27T13:19:14.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d375ef0d-9946-4920-bae8-e432ebc42c55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\pluto\\source\\repos\\project\\ConfigTool\\ConfigTool\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ConfigTool\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\pluto\\source\\repos\\project\\ConfigTool\\ConfigTool\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "ConfigTool\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T01:53:38.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pluto\\source\\repos\\project\\ConfigTool\\ConfigTool\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ConfigTool\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\pluto\\source\\repos\\project\\ConfigTool\\ConfigTool\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "ConfigTool\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T13:42:11.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pluto\\source\\repos\\project\\ConfigTool\\ConfigTool\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ConfigTool\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\pluto\\source\\repos\\project\\ConfigTool\\ConfigTool\\App.xaml.cs",
+              "RelativeToolTip": "ConfigTool\\App.xaml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswCoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T13:34:44.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\pluto\\source\\repos\\project\\ConfigTool\\ConfigTool\\App.xaml",
+              "RelativeDocumentMoniker": "ConfigTool\\App.xaml",
+              "ToolTip": "C:\\Users\\pluto\\source\\repos\\project\\ConfigTool\\ConfigTool\\App.xaml",
+              "RelativeToolTip": "ConfigTool\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-27T13:25:12.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\pluto\\source\\repos\\project\\ConfigTool\\ConfigTool\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "ConfigTool\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\pluto\\source\\repos\\project\\ConfigTool\\ConfigTool\\LoginWindow.xaml",
+              "RelativeToolTip": "ConfigTool\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-27T13:23:58.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pluto\\source\\repos\\project\\ConfigTool\\ConfigTool\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ConfigTool\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\pluto\\source\\repos\\project\\ConfigTool\\ConfigTool\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ConfigTool\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAUwJQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T13:19:11.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LogHelper.cs",
+              "DocumentMoniker": "C:\\Users\\pluto\\source\\repos\\project\\ConfigTool\\ConfigTool\\LogHelper.cs",
+              "RelativeDocumentMoniker": "ConfigTool\\LogHelper.cs",
+              "ToolTip": "C:\\Users\\pluto\\source\\repos\\project\\ConfigTool\\ConfigTool\\LogHelper.cs",
+              "RelativeToolTip": "ConfigTool\\LogHelper.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T13:27:02.272Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

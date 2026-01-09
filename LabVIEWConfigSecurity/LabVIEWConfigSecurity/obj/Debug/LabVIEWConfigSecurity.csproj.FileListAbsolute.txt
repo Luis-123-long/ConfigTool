@@ -1,0 +1,9 @@
+C:\Users\pluto\source\repos\project\LabVIEWConfigSecurity\LabVIEWConfigSecurity\bin\Debug\LabVIEWConfigSecurity.dll
+C:\Users\pluto\source\repos\project\LabVIEWConfigSecurity\LabVIEWConfigSecurity\bin\Debug\LabVIEWConfigSecurity.pdb
+C:\Users\pluto\source\repos\project\LabVIEWConfigSecurity\LabVIEWConfigSecurity\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pluto\source\repos\project\LabVIEWConfigSecurity\LabVIEWConfigSecurity\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pluto\source\repos\project\LabVIEWConfigSecurity\LabVIEWConfigSecurity\obj\Debug\LabVIEWConfigSecurity.csproj.AssemblyReference.cache
+C:\Users\pluto\source\repos\project\LabVIEWConfigSecurity\LabVIEWConfigSecurity\obj\Debug\LabVIEWConfigSecurity.csproj.CoreCompileInputs.cache
+C:\Users\pluto\source\repos\project\LabVIEWConfigSecurity\LabVIEWConfigSecurity\obj\Debug\LabVIEWC.48AF47CF.Up2Date
+C:\Users\pluto\source\repos\project\LabVIEWConfigSecurity\LabVIEWConfigSecurity\obj\Debug\LabVIEWConfigSecurity.dll
+C:\Users\pluto\source\repos\project\LabVIEWConfigSecurity\LabVIEWConfigSecurity\obj\Debug\LabVIEWConfigSecurity.pdb

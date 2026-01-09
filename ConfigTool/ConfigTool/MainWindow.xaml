@@ -1,0 +1,141 @@
+﻿<Window x:Class="ConfigTool.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="加密配置生成器 long" Height="500" Width="600"
+        WindowStartupLocation="CenterScreen">
+    <Grid Margin="15">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="产线工位点检参数配置" FontSize="18" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,0,0,10"/>
+        <TabControl Grid.Row="1" SelectionChanged="TabControl_SelectionChanged">
+            <TabItem Header=" [右工位点检] " FontSize="14">
+                <StackPanel Margin="20">
+                    <TextBlock Text="Right Station Settings" Foreground="Gray" Margin="0,0,0,15"/>
+                    <UniformGrid Columns="2" Rows="3">
+                        <StackPanel Margin="5">
+                            <TextBlock Text="年 (Year):"/>
+                            <TextBox Text="{Binding RightStation.Year}"/>
+                        </StackPanel>
+                        <StackPanel Margin="5">
+                            <TextBlock Text="月 (Month):"/>
+                            <TextBox Text="{Binding RightStation.Month}"/>
+                        </StackPanel>
+                        <StackPanel Margin="5">
+                            <TextBlock Text="日 (Day):"/>
+                            <TextBox Text="{Binding RightStation.Day}"/>
+                        </StackPanel>
+                        <StackPanel Margin="5">
+                            <TextBlock Text="时 (Hour):"/>
+                            <TextBox Text="{Binding RightStation.Hour}"/>
+                        </StackPanel>
+                        <StackPanel Margin="5">
+                            <TextBlock Text="分 (Minute):"/>
+                            <TextBox Text="{Binding RightStation.Minute}"/>
+                        </StackPanel>
+                        <StackPanel Margin="5">
+                            <TextBlock Text="秒 (Second):"/>
+                            <TextBox Text="{Binding RightStation.Second}"/>
+                        </StackPanel>
+                    </UniformGrid>
+                </StackPanel>
+            </TabItem>
+
+            <TabItem Header=" [左工位点检] " FontSize="14">
+                <StackPanel Margin="20">
+                    <TextBlock Text="Left Station Settings" Foreground="Gray" Margin="0,0,0,15"/>
+
+                    <UniformGrid Columns="2" Rows="3">
+                        <StackPanel Margin="5">
+                            <TextBlock Text="年 (Year):"/>
+                            <TextBox Text="{Binding LeftStation.Year}"/>
+                        </StackPanel>
+                        <StackPanel Margin="5">
+                            <TextBlock Text="月 (Month):"/>
+                            <TextBox Text="{Binding LeftStation.Month}"/>
+                        </StackPanel>
+                        <StackPanel Margin="5">
+                            <TextBlock Text="日 (Day):"/>
+                            <TextBox Text="{Binding LeftStation.Day}"/>
+                        </StackPanel>
+                        <StackPanel Margin="5">
+                            <TextBlock Text="时 (Hour):"/>
+                            <TextBox Text="{Binding LeftStation.Hour}"/>
+                        </StackPanel>
+                        <StackPanel Margin="5">
+                            <TextBlock Text="分 (Minute):"/>
+                            <TextBox Text="{Binding LeftStation.Minute}"/>
+                        </StackPanel>
+                        <StackPanel Margin="5">
+                            <TextBlock Text="秒 (Second):"/>
+                            <TextBox Text="{Binding LeftStation.Second}"/>
+                        </StackPanel>
+                    </UniformGrid>
+                </StackPanel>
+            </TabItem>
+            <TabItem x:Name="TabComp" Header=" [逻辑判定参数配置] " FontSize="14">
+                <Grid Margin="10">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    
+                    <DataGrid Grid.Row="1" ItemsSource="{Binding CompensationList}" 
+                            AutoGenerateColumns="False" CanUserAddRows="False"
+                            AlternatingRowBackground="#F0F0F0" GridLinesVisibility="All">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="机种名称 (Model)" Binding="{Binding ModelName}" Width="150" FontWeight="Bold"/>
+
+                            <DataGridTextColumn Header="补偿值 1" Binding="{Binding Value1}" Width="*"/>
+
+                            <DataGridTextColumn Header="补偿值 2" Binding="{Binding Value2}" Width="*"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </Grid>
+            </TabItem>
+        </TabControl>
+
+        <Grid Grid.Row="2" Margin="0,10,0,10">
+
+            <StackPanel x:Name="PanelStation" 
+                Orientation="Vertical" 
+                VerticalAlignment="Center"
+                Visibility="Visible">
+
+                <Button x:Name="BtnGetTime" 
+                Content="📅 获取当前电脑时间 (Sync Time)" 
+                Click="BtnGetTime_Click"
+                Height="35" Background="#E1E1E1" Margin="0,0,0,10" FontWeight="Bold"/>
+
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                    <Button Content="读取配置" Click="BtnRead_Click" Width="120" Height="40" Margin="10,0"/>
+                    <Button Content="加密保存" Click="BtnSave_Click" Width="120" Height="40" Margin="10,0" Background="#007ACC" Foreground="White"/>
+                </StackPanel>
+            </StackPanel>
+
+
+            <StackPanel x:Name="PanelLogic" 
+                Orientation="Horizontal" 
+                HorizontalAlignment="Center" 
+                VerticalAlignment="Center"
+                Visibility="Collapsed">
+
+                <Button Content="📂 导入 CSV 原始文件" 
+                Click="BtnLoadCSV_Click" 
+                Width="160" Height="40" Margin="10,0"/>
+
+                <Button Content="🔓 读取并解密补偿表" 
+                Click="BtnReadComp_Click" 
+                Width="160" Height="40" Margin="10,0"/>
+
+                <Button Content="💾 单独加密保存补偿表" 
+                Click="BtnSaveComp_Click" 
+                Width="160" Height="40" Margin="10,0" Background="#DD4B39" Foreground="White"/>
+            </StackPanel>
+
+        </Grid>
+    </Grid>
+</Window>

@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pluto\\source\\repos\\project\\LabVIEWConfigSecurity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48193C73-14CD-4578-B1BF-F211A97DBB05}|LabVIEWConfigSecurity\\LabVIEWConfigSecurity.csproj|c:\\users\\pluto\\source\\repos\\project\\labviewconfigsecurity\\labviewconfigsecurity\\autoupdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48193C73-14CD-4578-B1BF-F211A97DBB05}|LabVIEWConfigSecurity\\LabVIEWConfigSecurity.csproj|solutionrelative:labviewconfigsecurity\\autoupdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48193C73-14CD-4578-B1BF-F211A97DBB05}|LabVIEWConfigSecurity\\LabVIEWConfigSecurity.csproj|C:\\Users\\pluto\\source\\repos\\project\\LabVIEWConfigSecurity\\labviewconfigsecurity\\compensationitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48193C73-14CD-4578-B1BF-F211A97DBB05}|LabVIEWConfigSecurity\\LabVIEWConfigSecurity.csproj|solutionrelative:labviewconfigsecurity\\compensationitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48193C73-14CD-4578-B1BF-F211A97DBB05}|LabVIEWConfigSecurity\\LabVIEWConfigSecurity.csproj|C:\\Users\\pluto\\source\\repos\\project\\LabVIEWConfigSecurity\\labviewconfigsecurity\\machineconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48193C73-14CD-4578-B1BF-F211A97DBB05}|LabVIEWConfigSecurity\\LabVIEWConfigSecurity.csproj|solutionrelative:labviewconfigsecurity\\machineconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48193C73-14CD-4578-B1BF-F211A97DBB05}|LabVIEWConfigSecurity\\LabVIEWConfigSecurity.csproj|C:\\Users\\pluto\\source\\repos\\project\\LabVIEWConfigSecurity\\labviewconfigsecurity\\stationconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48193C73-14CD-4578-B1BF-F211A97DBB05}|LabVIEWConfigSecurity\\LabVIEWConfigSecurity.csproj|solutionrelative:labviewconfigsecurity\\stationconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48193C73-14CD-4578-B1BF-F211A97DBB05}|LabVIEWConfigSecurity\\LabVIEWConfigSecurity.csproj|C:\\Users\\pluto\\source\\repos\\project\\LabVIEWConfigSecurity\\LabVIEWConfigSecurity\\CryptoHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48193C73-14CD-4578-B1BF-F211A97DBB05}|LabVIEWConfigSecurity\\LabVIEWConfigSecurity.csproj|solutionrelative:LabVIEWConfigSecurity\\CryptoHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48193C73-14CD-4578-B1BF-F211A97DBB05}|LabVIEWConfigSecurity\\LabVIEWConfigSecurity.csproj|C:\\Users\\pluto\\source\\repos\\project\\LabVIEWConfigSecurity\\labviewconfigsecurity\\accesshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48193C73-14CD-4578-B1BF-F211A97DBB05}|LabVIEWConfigSecurity\\LabVIEWConfigSecurity.csproj|solutionrelative:labviewconfigsecurity\\accesshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48193C73-14CD-4578-B1BF-F211A97DBB05}|LabVIEWConfigSecurity\\LabVIEWConfigSecurity.csproj|C:\\Users\\pluto\\source\\repos\\project\\LabVIEWConfigSecurity\\LabVIEWConfigSecurity\\LabVIEWConfigSecurity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{48193C73-14CD-4578-B1BF-F211A97DBB05}|LabVIEWConfigSecurity\\LabVIEWConfigSecurity.csproj|solutionrelative:LabVIEWConfigSecurity\\LabVIEWConfigSecurity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutoUpdater.cs",
+              "DocumentMoniker": "C:\\Users\\pluto\\source\\repos\\project\\LabVIEWConfigSecurity\\LabVIEWConfigSecurity\\AutoUpdater.cs",
+              "RelativeDocumentMoniker": "LabVIEWConfigSecurity\\AutoUpdater.cs",
+              "ToolTip": "C:\\Users\\pluto\\source\\repos\\project\\LabVIEWConfigSecurity\\LabVIEWConfigSecurity\\AutoUpdater.cs*",
+              "RelativeToolTip": "LabVIEWConfigSecurity\\AutoUpdater.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T07:31:00.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompensationItem.cs",
+              "DocumentMoniker": "C:\\Users\\pluto\\source\\repos\\project\\LabVIEWConfigSecurity\\LabVIEWConfigSecurity\\CompensationItem.cs",
+              "RelativeDocumentMoniker": "LabVIEWConfigSecurity\\CompensationItem.cs",
+              "ToolTip": "C:\\Users\\pluto\\source\\repos\\project\\LabVIEWConfigSecurity\\LabVIEWConfigSecurity\\CompensationItem.cs",
+              "RelativeToolTip": "LabVIEWConfigSecurity\\CompensationItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T07:48:31.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MachineConfig.cs",
+              "DocumentMoniker": "C:\\Users\\pluto\\source\\repos\\project\\LabVIEWConfigSecurity\\LabVIEWConfigSecurity\\MachineConfig.cs",
+              "RelativeDocumentMoniker": "LabVIEWConfigSecurity\\MachineConfig.cs",
+              "ToolTip": "C:\\Users\\pluto\\source\\repos\\project\\LabVIEWConfigSecurity\\LabVIEWConfigSecurity\\MachineConfig.cs",
+              "RelativeToolTip": "LabVIEWConfigSecurity\\MachineConfig.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T07:30:10.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StationConfig.cs",
+              "DocumentMoniker": "C:\\Users\\pluto\\source\\repos\\project\\LabVIEWConfigSecurity\\LabVIEWConfigSecurity\\StationConfig.cs",
+              "RelativeDocumentMoniker": "LabVIEWConfigSecurity\\StationConfig.cs",
+              "ToolTip": "C:\\Users\\pluto\\source\\repos\\project\\LabVIEWConfigSecurity\\LabVIEWConfigSecurity\\StationConfig.cs",
+              "RelativeToolTip": "LabVIEWConfigSecurity\\StationConfig.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T07:27:39.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccessHelper.cs",
+              "DocumentMoniker": "C:\\Users\\pluto\\source\\repos\\project\\LabVIEWConfigSecurity\\LabVIEWConfigSecurity\\AccessHelper.cs",
+              "RelativeDocumentMoniker": "LabVIEWConfigSecurity\\AccessHelper.cs",
+              "ToolTip": "C:\\Users\\pluto\\source\\repos\\project\\LabVIEWConfigSecurity\\LabVIEWConfigSecurity\\AccessHelper.cs",
+              "RelativeToolTip": "LabVIEWConfigSecurity\\AccessHelper.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T12:37:28.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LabVIEWConfigSecurity.csproj",
+              "DocumentMoniker": "C:\\Users\\pluto\\source\\repos\\project\\LabVIEWConfigSecurity\\LabVIEWConfigSecurity\\LabVIEWConfigSecurity.csproj",
+              "RelativeDocumentMoniker": "LabVIEWConfigSecurity\\LabVIEWConfigSecurity.csproj",
+              "ToolTip": "C:\\Users\\pluto\\source\\repos\\project\\LabVIEWConfigSecurity\\LabVIEWConfigSecurity\\LabVIEWConfigSecurity.csproj",
+              "RelativeToolTip": "LabVIEWConfigSecurity\\LabVIEWConfigSecurity.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-06T06:50:12.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CryptoHelper.cs",
+              "DocumentMoniker": "C:\\Users\\pluto\\source\\repos\\project\\LabVIEWConfigSecurity\\LabVIEWConfigSecurity\\CryptoHelper.cs",
+              "RelativeDocumentMoniker": "LabVIEWConfigSecurity\\CryptoHelper.cs",
+              "ToolTip": "C:\\Users\\pluto\\source\\repos\\project\\LabVIEWConfigSecurity\\LabVIEWConfigSecurity\\CryptoHelper.cs",
+              "RelativeToolTip": "LabVIEWConfigSecurity\\CryptoHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T06:38:11.588Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d375ef0d-9946-4920-bae8-e432ebc42c55}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
